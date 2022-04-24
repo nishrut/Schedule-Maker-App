@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nishr/Downloads/courseScheduler-main/courseScheduler-main/ScheduleMaker/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.298" />
+        <entry key="..\:/Users/nishr/Downloads/courseScheduler-main/courseScheduler-main/ScheduleMaker/app/src/main/res/drawable/ic_baseline_school_24.xml" value="0.298" />
+        <entry key="..\:/Users/nishr/Downloads/courseScheduler-main/courseScheduler-main/ScheduleMaker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.298" />
+        <entry key="..\:/Users/nishr/Downloads/courseScheduler-main/courseScheduler-main/ScheduleMaker/app/src/main/res/layout/activity_calendar_list.xml" value="0.3473731884057971" />
+        <entry key="..\:/Users/nishr/Downloads/courseScheduler-main/courseScheduler-main/ScheduleMaker/app/src/main/res/layout/activity_class_list.xml" value="0.3131578947368421" />
+        <entry key="..\:/Users/nishr/Downloads/courseScheduler-main/courseScheduler-main/ScheduleMaker/app/src/main/res/layout/activity_date.xml" value="0.3473731884057971" />
+        <entry key="..\:/Users/nishr/Downloads/courseScheduler-main/courseScheduler-main/ScheduleMaker/app/src/main/res/layout/activity_main.xml" value="0.2348684210526316" />
+        <entry key="..\:/Users/nishr/Downloads/courseScheduler-main/courseScheduler-main/ScheduleMaker/app/src/main/res/layout/activity_view_schedule.xml" value="0.3131578947368421" />
+        <entry key="..\:/Users/nishr/Downloads/courseScheduler-main/courseScheduler-main/ScheduleMaker/app/src/main/res/layout/course_layout.xml" value="0.3131578947368421" />
+        <entry key="..\:/Users/nishr/Downloads/courseScheduler-main/courseScheduler-main/ScheduleMaker/app/src/main/res/layout/schedule_course_layout.xml" value="0.3131578947368421" />
+        <entry key="..\:/Users/nishr/Downloads/courseScheduler-main/courseScheduler-main/ScheduleMaker/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.298" />
+        <entry key="app/src/main/res/layout/activity_calendar_list.xml" value="0.3780125935872396" />
+        <entry key="app/src/main/res/layout/activity_class_list.xml" value="0.3471623738606771" />
+        <entry key="app/src/main/res/layout/activity_date.xml" value="0.5186681111653646" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.5317708333333333" />
+        <entry key="app/src/main/res/layout/course_layout.xml" value="0.3645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
