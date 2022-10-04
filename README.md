@@ -1,2 +1,2 @@
 # Schedule-Maker-App
-an application that helps student to schedule their courses
+an android application that helps student to schedule their courses
